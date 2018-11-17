@@ -4,4 +4,4 @@ Head First Design Pattern,44,Kathy Sierra
 Introduction to Algorithm,72,Thomas Cormen
 Java Como Programar,200,Deitel
 Java2 Como Programar,100,Deitel
-Harry Potter, 50, Mulher
+Harry Potter,50, Mulher
